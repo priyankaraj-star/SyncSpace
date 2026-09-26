@@ -14,7 +14,7 @@ SyncSpace is a real-time collaborative workspace designed to offer synchronous m
 
 ---
 
-## 3. High-Level Architecture Flow
+## 3. High-Level Architecture Flow:
 
 ```text
 [Client A (Browser)] <====> [ WebSocket / Yjs Provider ] <====> [ Node.js Server ]
