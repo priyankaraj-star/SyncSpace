@@ -27,3 +27,4 @@ SyncSpace is a real-time collaborative workspace designed to offer synchronous m
 - Socket.io pipeline extended for code updates and language switching.
 - Debounced binary serialization worker configured for periodic MongoDB saves.
 - Document recovery controller active to reload binary state on server restarts.
+//client
